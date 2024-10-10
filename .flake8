@@ -1,4 +1,3 @@
 #this file is responsable to configurate flake8, as verification that you don't want to check in your files.
 [flake8]
-extend-ignore =
-    # H101: Use TODO(NAME)
+
